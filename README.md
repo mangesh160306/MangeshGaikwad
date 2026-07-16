@@ -24,10 +24,10 @@
 
 ### 🧠 About Me
 
-- 🎓 B.Sc. (Hons.) in Data Science & Artificial Intelligence — **[YOUR COLLEGE NAME]**, expected graduation **[YEAR]**
-- 🔭 Currently working on: **[e.g. a Kaggle competition / a ML project name]**
-- 🌱 Currently learning: **[e.g. Deep Learning, PyTorch, MLOps — fill in what's true]**
-- 🎯 Goal: aiming to break into **[e.g. Data Analyst / ML Engineer]** roles
+- 🎓 B.Sc. (Hons.) in Data Science & Artificial Intelligence — **@DOT SPPU**, expected graduation **2029**
+- 🔭 Currently working on: **PYTHON, ML AND R PROJECTS**
+- 🌱 Currently learning: **PYTHON, SQL ,ML AND R**
+- 🎯 Goal: aiming to break into **DATA SCIENTIST** roles
 - 📍 Based in Pune, India
 - ⚡ Fun fact: I love solving DSA problems as much as I love clean datasets
 
@@ -48,9 +48,8 @@
 
 ### 📌 Featured Projects
 
-- 🐍 **[PythonProjects](https://github.com/mangesh160306/PythonProjects)** — **[1-line description: what kind of projects, what you learned]**
-- 🧩 **[LeetCode-Solutions](https://github.com/mangesh160306/LeetCode-Solutions)** — **[1-line description: e.g. "50+ solved problems covering arrays, DP, graphs"]**
-
+- 🐍 **[PythonProjects](https://github.com/mangesh160306/PythonProjects) 
+- 🧩 **[LeetCode-Solutions](https://github.com/mangesh160306/LeetCode-Solutions)
 ---
 
 ### 📊 GitHub Stats
