@@ -45,9 +45,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-> 💡 Replace/add badges above to match your real stack — e.g. TensorFlow, PyTorch, Power BI, Tableau, MongoDB. Full badge list: https://github.com/Ileriayo/markdown-badges
-
----
 
 ### 📌 Featured Projects
 
