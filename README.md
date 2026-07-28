@@ -26,11 +26,11 @@
 ## 📌 Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/mangeshgaiwad/python-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mangeshgaiwad&repo=python-projects&theme=default&hide_border=true" />
+  <a href="https://github.com/mangesh160306/python-projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mangesh160306&repo=python-projects&theme=default&hide_border=true" />
   </a>
-  <a href="https://github.com/mangeshgaiwad/leetcode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mangeshgaiwad&repo=leetcode&theme=default&hide_border=true" />
+  <a href="https://github.com/mangesh160306/leetcode">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mangesh160306&repo=leetcode&theme=default&hide_border=true" />
   </a>
 </p>
 
@@ -57,16 +57,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mangeshgaiwad&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangeshgaiwad&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mangesh160306&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangesh160306&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mangeshgaiwad&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mangesh160306&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/mangeshgaiwad?theme=light&font=baloo2&ext=heatmap" alt="LeetCode stats"/>
+  <img src="https://leetcard.jacoblin.cool/mangesh160306?theme=light&font=baloo2&ext=heatmap" alt="LeetCode stats"/>
 </p>
 
 ---
@@ -74,7 +74,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mangeshgaiwad/mangeshgaiwad/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/mangesh160306/mangesh160306/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ---
@@ -82,8 +82,8 @@
 ## 🔥 Currently Solving
 
 <p align="center">
-  <a href="https://leetcode.com/mangeshgaiwad">
-    <img src="https://leetcode-badge-collection.vercel.app/api?username=mangeshgaiwad" alt="LeetCode Badges"/>
+  <a href="https://leetcode.com/mangesh160306">
+    <img src="https://leetcode-badge-collection.vercel.app/api?username=mangesh160306" alt="LeetCode Badges"/>
   </a>
 </p>
 
@@ -92,7 +92,7 @@
 ## 📈 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mangeshgaiwad&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mangesh160306&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
 </p>
 
 ---
