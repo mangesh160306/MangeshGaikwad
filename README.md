@@ -26,11 +26,11 @@
 ## 📌 Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/mangesh160306/python-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mangesh160306&repo=python-projects&theme=default&hide_border=true" />
+  <a href="https://github.com/mangesh16032006/python-projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mangesh16032006&repo=python-projects&theme=default&hide_border=true" />
   </a>
-  <a href="https://github.com/mangesh160306/leetcode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mangesh160306&repo=leetcode&theme=default&hide_border=true" />
+  <a href="https://github.com/mangesh16032006/leetcode">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mangesh16032006&repo=leetcode&theme=default&hide_border=true" />
   </a>
 </p>
 
