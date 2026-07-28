@@ -73,10 +73,27 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mangesh160306/mangesh160306/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
+import { generateSnakeAnimation } from "generate-snake-animation";
 
+const outputs = [
+  {
+    format: "svg",
+    drawOptions: {
+      // ..
+    },
+  },
+];
+
+const results = await generateSnakeAnimation(
+  {
+    platform: "github", // supports github, gitlab and forgejo (codeberg)
+    username: "platane",
+    githubToken: process.env.GITHUB_TOKEN,
+  },
+  outputs,
+);
+
+fs.writeFileSync("snake.svg", results[0]);
 > 💡 To enable the snake animation, set up the [platane/snk](https://github.com/Platane/snk) GitHub Action in a repo named exactly `yourusername/yourusername`.
 
 ---
