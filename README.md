@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Mangesh Gaikwad ..... 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Science+%26+AI+Student;Python+%7C+ML+%7C+R+Enthusiast;Solving+DSA+problems+one+day+at+a+time;Aspiring+Data+Scientist" alt="Typing SVG" />
@@ -74,7 +74,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/mangesh160306/mangesh160306/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 > 💡 To enable the snake animation, set up the [platane/snk](https://github.com/Platane/snk) GitHub Action in a repo named exactly `yourusername/yourusername`.
@@ -84,7 +84,7 @@
 ## 🔥 Currently Solving
 
 <p align="center">
-  <a href="https://leetcode.com/yourusername">
+  <a href="https://leetcode.com/160306">
     <img src="https://leetcode-badge-collection.vercel.app/api?username=yourusername" alt="LeetCode Badges"/>
   </a>
 </p>
