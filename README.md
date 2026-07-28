@@ -57,16 +57,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mangesh160306&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangesh160306&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mangesh16032006&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangesh16032006&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mangesh160306&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mangesh16032006&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/mangesh160306?theme=light&font=baloo2&ext=heatmap" alt="LeetCode stats"/>
+  <img src="https://leetcard.jacoblin.cool/mangesh16032006?theme=light&font=baloo2&ext=heatmap" alt="LeetCode stats"/>
 </p>
 
 ---
